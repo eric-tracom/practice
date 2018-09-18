@@ -18,7 +18,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class SimpleTest {
 
-    @Rule
+//    @Rule
     public ScreenShotOnFailRule screenShotOnFailRule = new ScreenShotOnFailRule();
 
     @BeforeEach
