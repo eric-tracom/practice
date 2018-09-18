@@ -1,0 +1,26 @@
+# Files used by Intellij Idea
+/.idea
+/*iml
+/*ipr
+/*iws
+/out
+
+# Files created by the build, including unit test generated files.
+/.gradle
+gradle-local.properties
+/build
+/classes
+src/test/resources/envConfig.properties
+src/test/resources/log4j.properties
+
+# The register.sh file, which is user specific
+register.sh
+
+# Misc. files
+*.lock
+*.log
+*.log.*
+*.class
+*.swp
+.DS_Store
+/drivers
